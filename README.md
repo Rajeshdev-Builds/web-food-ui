@@ -10,4 +10,4 @@ organized grid that automatically stacks on smaller screens.
 III.Semantic HTML: Structured the content using <article>, <section>,
 and <aside> tags to improve SEO and accessibility.
 
-![WebFood Preview](./Screenshot 2026-02-02 173428.jpg)
+
